@@ -23,4 +23,4 @@ export default function calculateCashback(amount) {
   } else {
     return 0;
   }
-};
+}
